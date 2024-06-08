@@ -1,2 +1,2 @@
 # Arak Bchaaleh Booking App
- Booking application with android studio ajva language and SQLite
+ Booking application with android studio java language and SQLite
